@@ -18,6 +18,7 @@ def train_and_save_knn():
     
     print("Membangun matriks interaksi antar item dengan user...")
     item_user_matrix = pd.crosstab(df['CoffeeType'], df['CustomerName']).clip(upper=1)
+    item_transaction_matrix = pd.crosstab(df['Item'], df['Transaction']).clip(upper=1)
 
     print("Melatih model KNN...")
     knn = NearestNeighbors(metric='cosine', algorithm='brute', n_neighbors=5)
