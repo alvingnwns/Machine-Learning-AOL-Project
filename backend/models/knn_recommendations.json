@@ -1,0 +1,566 @@
+{
+    "Adjustment": [
+        "Olum & polenta",
+        "Nomad bag",
+        "Pick and Mix Bowls",
+        "Panatone"
+    ],
+    "Afternoon with the baker": [
+        "Argentina Night",
+        "Duck egg",
+        "Granola",
+        "Extra Salami or Feta"
+    ],
+    "Alfajores": [
+        "Coffee",
+        "Bread",
+        "Tea",
+        "Juice"
+    ],
+    "Argentina Night": [
+        "Afternoon with the baker",
+        "Vegan Feast",
+        "Granola",
+        "Tea"
+    ],
+    "Art Tray": [
+        "Hack the stack",
+        "Bacon",
+        "My-5 Fruit Shoot",
+        "Bare Popcorn"
+    ],
+    "Bacon": [
+        "Art Tray",
+        "Juice",
+        "Coffee",
+        "Pastry"
+    ],
+    "Baguette": [
+        "Scandinavian",
+        "Bread",
+        "Coffee",
+        "Salad"
+    ],
+    "Bakewell": [
+        "Coffee",
+        "Lemon and coconut",
+        "Tea",
+        "Juice"
+    ],
+    "Bare Popcorn": [
+        "Panatone",
+        "Crisps",
+        "Ella's Kitchen Pouches",
+        "Extra Salami or Feta"
+    ],
+    "Basket": [
+        "Hot chocolate",
+        "Coffee",
+        "Farm House",
+        "Bread"
+    ],
+    "Bowl Nic Pitt": [
+        "Frittata",
+        "Hearty & Seasonal",
+        "Soup",
+        "Muffin"
+    ],
+    "Bread": [
+        "Coffee",
+        "Pastry",
+        "Tea",
+        "Cake"
+    ],
+    "Bread Pudding": [
+        "Jam",
+        "Fudge",
+        "Coffee",
+        "Soup"
+    ],
+    "Brioche and salami": [
+        "Scone",
+        "Alfajores",
+        "Bread",
+        "Cake"
+    ],
+    "Brownie": [
+        "Coffee",
+        "Bread",
+        "Tea",
+        "Hot chocolate"
+    ],
+    "Cake": [
+        "Coffee",
+        "Tea",
+        "Hot chocolate",
+        "Bread"
+    ],
+    "Caramel bites": [
+        "Kids biscuit",
+        "My-5 Fruit Shoot",
+        "Jammie Dodgers",
+        "Medialuna"
+    ],
+    "Cherry me Dried fruit": [
+        "Eggs",
+        "Extra Salami or Feta",
+        "Toast",
+        "Hot chocolate"
+    ],
+    "Chicken Stew": [
+        "Spanish Brunch",
+        "Juice",
+        "Soup",
+        "Tea"
+    ],
+    "Chicken sand": [
+        "Frittata",
+        "Scandinavian",
+        "Tea",
+        "Coffee"
+    ],
+    "Chimichurri Oil": [
+        "Scandinavian",
+        "Farm House",
+        "Panatone",
+        "Pintxos"
+    ],
+    "Chocolates": [
+        "Coke",
+        "Juice",
+        "Hot chocolate",
+        "Chicken Stew"
+    ],
+    "Christmas common": [
+        "Jam",
+        "Baguette",
+        "Spanish Brunch",
+        "Truffles"
+    ],
+    "Coffee": [
+        "Cake",
+        "Pastry",
+        "Bread",
+        "Sandwich"
+    ],
+    "Coffee granules ": [
+        "Mortimer",
+        "Extra Salami or Feta",
+        "Salad",
+        "Farm House"
+    ],
+    "Coke": [
+        "Sandwich",
+        "Juice",
+        "Chocolates",
+        "Mineral water"
+    ],
+    "Cookies": [
+        "Coffee",
+        "Juice",
+        "Tea",
+        "Bread"
+    ],
+    "Crepes": [
+        "Alfajores",
+        "Medialuna",
+        "Scone",
+        "Farm House"
+    ],
+    "Crisps": [
+        "Bare Popcorn",
+        "Juice",
+        "Sandwich",
+        "Frittata"
+    ],
+    "Drinking chocolate spoons ": [
+        "Mineral water",
+        "Juice",
+        "Salad",
+        "Bread"
+    ],
+    "Duck egg": [
+        "Spanish Brunch",
+        "Extra Salami or Feta",
+        "Tea",
+        "Afternoon with the baker"
+    ],
+    "Dulce de Leche": [
+        "Fudge",
+        "Alfajores",
+        "Medialuna",
+        "Pastry"
+    ],
+    "Eggs": [
+        "Cherry me Dried fruit",
+        "Nomad bag",
+        "Bread",
+        "Fudge"
+    ],
+    "Ella's Kitchen Pouches": [
+        "Bare Popcorn",
+        "Juice",
+        "My-5 Fruit Shoot",
+        "Jam"
+    ],
+    "Empanadas": [
+        "Scandinavian",
+        "Coffee",
+        "Soup",
+        "Tea"
+    ],
+    "Extra Salami or Feta": [
+        "Salad",
+        "Spanish Brunch",
+        "Cherry me Dried fruit",
+        "Duck egg"
+    ],
+    "Fairy Doors": [
+        "Focaccia",
+        "Scandinavian",
+        "Pastry",
+        "Nomad bag"
+    ],
+    "Farm House": [
+        "Scandinavian",
+        "Coffee",
+        "Pastry",
+        "Medialuna"
+    ],
+    "Focaccia": [
+        "Fairy Doors",
+        "Panatone",
+        "Bread",
+        "Fudge"
+    ],
+    "Frittata": [
+        "Chicken sand",
+        "Bowl Nic Pitt",
+        "Coffee",
+        "Crisps"
+    ],
+    "Fudge": [
+        "Jam",
+        "Spread",
+        "Bread",
+        "Dulce de Leche"
+    ],
+    "Gift voucher": [
+        "Bread",
+        "Olum & polenta",
+        "Pastry",
+        "Panatone"
+    ],
+    "Gingerbread syrup": [
+        "Jam",
+        "Fudge",
+        "Muffin",
+        "Juice"
+    ],
+    "Granola": [
+        "Argentina Night",
+        "Coffee",
+        "Tea",
+        "Chicken Stew"
+    ],
+    "Hack the stack": [
+        "Art Tray",
+        "My-5 Fruit Shoot",
+        "Tea",
+        "Coffee"
+    ],
+    "Half slice Monster ": [
+        "My-5 Fruit Shoot",
+        "Juice",
+        "Tiffin",
+        "Cookies"
+    ],
+    "Hearty & Seasonal": [
+        "Pick and Mix Bowls",
+        "Coffee",
+        "Mineral water",
+        "Bowl Nic Pitt"
+    ],
+    "Honey": [
+        "Tacos/Fajita",
+        "Jammie Dodgers",
+        "Scandinavian",
+        "Tea"
+    ],
+    "Hot chocolate": [
+        "Coffee",
+        "Cake",
+        "Cookies",
+        "Bread"
+    ],
+    "Jam": [
+        "Fudge",
+        "Bread",
+        "Spread",
+        "Christmas common"
+    ],
+    "Jammie Dodgers": [
+        "Juice",
+        "Coffee",
+        "Cake",
+        "Tiffin"
+    ],
+    "Juice": [
+        "Coffee",
+        "Cookies",
+        "Cake",
+        "Sandwich"
+    ],
+    "Keeping It Local": [
+        "Coffee",
+        "Tea",
+        "Bread",
+        "My-5 Fruit Shoot"
+    ],
+    "Kids biscuit": [
+        "Caramel bites",
+        "My-5 Fruit Shoot",
+        "Muffin",
+        "Coffee"
+    ],
+    "Lemon and coconut": [
+        "Bakewell",
+        "Sandwich",
+        "Cake",
+        "Coffee"
+    ],
+    "Medialuna": [
+        "Coffee",
+        "Pastry",
+        "Bread",
+        "Tea"
+    ],
+    "Mighty Protein": [
+        "Hearty & Seasonal",
+        "Tartine",
+        "Coffee",
+        "Tea"
+    ],
+    "Mineral water": [
+        "Sandwich",
+        "Soup",
+        "Hearty & Seasonal",
+        "Pick and Mix Bowls"
+    ],
+    "Mortimer": [
+        "Coffee granules ",
+        "Nomad bag",
+        "Olum & polenta",
+        "Panatone"
+    ],
+    "Muesli": [
+        "The Nomad",
+        "Tea",
+        "Bread",
+        "Coffee"
+    ],
+    "Muffin": [
+        "Coffee",
+        "Tea",
+        "Cake",
+        "Hot chocolate"
+    ],
+    "My-5 Fruit Shoot": [
+        "Hack the stack",
+        "Caramel bites",
+        "Half slice Monster ",
+        "Art Tray"
+    ],
+    "Nomad bag": [
+        "Postcard",
+        "Tshirt",
+        "Eggs",
+        "Bread"
+    ],
+    "Olum & polenta": [
+        "Bread",
+        "Nomad bag",
+        "Pastry",
+        "My-5 Fruit Shoot"
+    ],
+    "Panatone": [
+        "Bare Popcorn",
+        "Art Tray",
+        "Focaccia",
+        "Fudge"
+    ],
+    "Pastry": [
+        "Coffee",
+        "Bread",
+        "Medialuna",
+        "Tea"
+    ],
+    "Pick and Mix Bowls": [
+        "Tartine",
+        "Hearty & Seasonal",
+        "Mineral water",
+        "Juice"
+    ],
+    "Pintxos": [
+        "Coke",
+        "Panatone",
+        "Olum & polenta",
+        "Pick and Mix Bowls"
+    ],
+    "Polenta": [
+        "Tea",
+        "My-5 Fruit Shoot",
+        "Pastry",
+        "Nomad bag"
+    ],
+    "Postcard": [
+        "Tshirt",
+        "Nomad bag",
+        "Valentine's card",
+        "Coffee"
+    ],
+    "Raspberry shortbread sandwich": [
+        "Tea",
+        "Brownie",
+        "Bread",
+        "Coffee"
+    ],
+    "Raw bars": [
+        "Tea",
+        "Pick and Mix Bowls",
+        "Panatone",
+        "Nomad bag"
+    ],
+    "Salad": [
+        "Extra Salami or Feta",
+        "Coffee",
+        "Spanish Brunch",
+        "Sandwich"
+    ],
+    "Sandwich": [
+        "Coffee",
+        "Tea",
+        "Coke",
+        "Bread"
+    ],
+    "Scandinavian": [
+        "Bread",
+        "Chicken sand",
+        "Farm House",
+        "Alfajores"
+    ],
+    "Scone": [
+        "Coffee",
+        "Tea",
+        "Bread",
+        "Cake"
+    ],
+    "Siblings": [
+        "Nomad bag",
+        "Pastry",
+        "Olum & polenta",
+        "Panatone"
+    ],
+    "Smoothies": [
+        "Spanish Brunch",
+        "Sandwich",
+        "Coffee",
+        "Hearty & Seasonal"
+    ],
+    "Soup": [
+        "Tea",
+        "Coffee",
+        "Sandwich",
+        "Mineral water"
+    ],
+    "Spanish Brunch": [
+        "Duck egg",
+        "Coffee",
+        "Juice",
+        "Extra Salami or Feta"
+    ],
+    "Spread": [
+        "Fudge",
+        "Jam",
+        "Bread",
+        "Nomad bag"
+    ],
+    "Tacos/Fajita": [
+        "Honey",
+        "Juice",
+        "Coke",
+        "Truffles"
+    ],
+    "Tartine": [
+        "Pick and Mix Bowls",
+        "Coffee",
+        "Jam",
+        "Mighty Protein"
+    ],
+    "Tea": [
+        "Cake",
+        "Coffee",
+        "Sandwich",
+        "Bread"
+    ],
+    "The BART": [
+        "Bread",
+        "My-5 Fruit Shoot",
+        "Pastry",
+        "Nomad bag"
+    ],
+    "The Nomad": [
+        "Spanish Brunch",
+        "Tea",
+        "Coffee",
+        "Muesli"
+    ],
+    "Tiffin": [
+        "Coffee",
+        "Jammie Dodgers",
+        "Tea",
+        "Bread"
+    ],
+    "Toast": [
+        "Coffee",
+        "Tea",
+        "Bread",
+        "Hot chocolate"
+    ],
+    "Truffles": [
+        "Sandwich",
+        "Spanish Brunch",
+        "Coffee",
+        "Juice"
+    ],
+    "Tshirt": [
+        "Postcard",
+        "Valentine's card",
+        "Nomad bag",
+        "Fudge"
+    ],
+    "Valentine's card": [
+        "Tshirt",
+        "Postcard",
+        "Salad",
+        "Cake"
+    ],
+    "Vegan Feast": [
+        "Argentina Night",
+        "Jammie Dodgers",
+        "Cookies",
+        "Cake"
+    ],
+    "Vegan mincepie": [
+        "Jammie Dodgers",
+        "Coffee",
+        "Hot chocolate",
+        "Cake"
+    ],
+    "Victorian Sponge": [
+        "Tea",
+        "Scandinavian",
+        "Soup",
+        "Alfajores"
+    ]
+}
