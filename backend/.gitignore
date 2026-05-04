@@ -3,7 +3,6 @@ aol_venv/
 __pycache__/
 
 # Dataset & Models (Optional to ignore if too large)
-data/*.csv
 models/*.pkl
 
 # Environment Variables
