@@ -1,4 +1,4 @@
-1 /read
+1 Bread
 2 Salad
 3 Hot chocolate
 4 Jam

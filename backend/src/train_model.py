@@ -21,6 +21,16 @@ def train_and_save_knn():
     if 'Item' in df.columns:
         df = df[df['Item'] != 'NONE']
 
+    # Filter: Hanya gunakan 30 item yang dipilih
+    chosen_items = [
+        'Bread', 'Salad', 'Hot chocolate', 'Jam', 'Cookies', 'Muffin', 'Coffee', 'Pastry',
+        'Medialuna', 'Tea', 'Tartine', 'Basket', 'Mineral water', 'Fudge', 'Juice',
+        'Victorian Sponge', 'Frittata', 'Soup', 'Smoothies', 'Cake', 'Coke', 'Sandwich',
+        'Baguette', 'Eggs', 'Brownie', 'Bread Pudding', 'Bacon', 'Toast', 'Scone', 'Crepes'
+    ]
+    df = df[df['Item'].isin(chosen_items)]
+    print(f"Filter diterapkan: {df['Item'].nunique()} item unik tersisa dari 30 item yang dipilih.")
+
     print("Membangun matriks interaksi antar item-transaction...")
     # .clip(upper=1) sebagai pengubah aturan menjadi biner (0 dan 1)
     item_transaction_matrix = pd.crosstab(df['Item'], df['Transaction']).clip(upper=1)
