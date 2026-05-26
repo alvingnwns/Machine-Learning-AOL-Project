@@ -2,8 +2,5 @@
 aol_venv/
 __pycache__/
 
-# Dataset & Models (Optional to ignore if too large)
-models/*.pkl
-
 # Environment Variables
 .env

@@ -4,12 +4,12 @@ import json
 def evaluate_recommender():
     print("Memulai Evaluasi Model ML")
 
-    df = pd.read_csv("../data/bread basket.csv")
+    df = pd.read_csv("data/bread_basket.csv")
     df.columns = df.columns.str.strip()
 
     df = df[df['Item'] != 'NONE']
 
-    with open('../models/knn_recommendations.json', 'r') as f:
+    with open('models/knn_recommendations.json', 'r') as f:
         rekomendasi_model = json.load(f)
 
     transaksi_dict = df.groupby('Transaction')['Item'].apply(lambda x: list(set(x))).to_dict()
